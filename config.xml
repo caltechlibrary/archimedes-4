@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	useThumbDots="true"
+	useFullscreenExpand="true"
+	galleryTitle="Diophantus of Alexandria and Pierre de Fermat"
+
+>
+  <image imageURL="images/04-title.jpg"
+	thumbURL="thumbs/04-title.jpg"
+	linkURL="images/04-title.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_4\04-title.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/04-01.jpg"
+	thumbURL="thumbs/04-01.jpg"
+	linkURL="images/04-01.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_4\04-01.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/04-02.jpg"
+	thumbURL="thumbs/04-02.jpg"
+	linkURL="images/04-02.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_4\04-02.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/04-03.jpg"
+	thumbURL="thumbs/04-03.jpg"
+	linkURL="images/04-03.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_4\04-03.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/04-04.jpg"
+	thumbURL="thumbs/04-04.jpg"
+	linkURL="images/04-04.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_4\04-04.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/04-5.6.jpg"
+	thumbURL="thumbs/04-5.6.jpg"
+	linkURL="images/04-5.6.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_4\04-5.6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/04-7.jpg"
+	thumbURL="thumbs/04-7.jpg"
+	linkURL="images/04-7.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_4\04-7.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
